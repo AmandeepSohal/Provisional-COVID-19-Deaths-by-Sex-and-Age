@@ -1,4 +1,4 @@
-Statistical Analyses performed:
+Statistical Analyses performed: /n
 T-Test: Sex and COVID-19 Deaths
 ANOVA: Age and COVID-19 Deaths
 Linear Regression: Age and Covid-19 Deaths
